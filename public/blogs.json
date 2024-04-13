@@ -1,0 +1,53 @@
+[
+    {
+      "id": "001",
+      "cover": "https://i.ibb.co/dMTh2Yx/painting-mountain-lake-with-mountain-background.jpg",
+      "title": "The Midnight Garden",
+      "author": "Eleanor Smith",
+      "author_img": "https://i.ibb.co/6n4nCQF/images.jpg",
+      "date": "2024-04-01",
+      "reading_time": 45,
+      "hashtags": ["#fiction ", "#fantasy ", "#mystery "]
+    },
+    {
+      "id": "002",
+      "cover": "https://i.ibb.co/87G3jm5/autumn-leaf-falling-revealing-intricate-leaf-vein-generated-by-ai.jpg",
+      "title": "Echoes of the Past",
+      "author": "James Wilson",
+      "author_img": "https://i.ibb.co/dK9tpD1/love-sad-dp-boy-attitude.webp",
+      "date": "2024-04-02",
+      "reading_time": 30,
+      "hashtags": ["#historical", "#drama", "#romance"]
+    },
+    {
+      "id": "003",
+      "cover": "https://i.ibb.co/Gv0SnmT/leaf-nature-backgrounds-pattern-illustration-plant-backdrop-design-abstract-vibrant-green-nature-wal.jpg",
+      "title": "Beyond the Horizon",
+      "author": "Maria Lopez",
+      "author_img": "https://i.ibb.co/6n4nCQF/images.jpg",
+      "date": "2024-04-03",
+      "reading_time": 60,
+      "hashtags": ["#sci-fi", "#adventure", "#technology"]
+    },
+    {
+      "id": "004",
+      "cover": "https://i.ibb.co/WnJ04K2/cardano-blockchain-platform-23-2150411956.jpg",
+      "title": "Whispers in the Wind",
+      "author": "Daniel Brown",
+      "author_img": "https://i.ibb.co/dK9tpD1/love-sad-dp-boy-attitude.webp",
+      "date": "2024-04-04",
+      "reading_time": 40,
+      "hashtags": ["#mystery", "#thriller", "#suspense"]
+    },
+    {
+      "id": "005",
+      "cover": "https://i.ibb.co/LtvhFmV/istockphoto-811268074-612x612.jpg",
+      "title": "The Enchanted Forest",
+      "author": "Sophia Clark",
+      "author_img": "https://i.ibb.co/6n4nCQF/images.jpg",
+      "date": "2024-04-05",
+      "reading_time": 50,
+      "hashtags": ["#fantasy", "#magic", "#fairytales"]
+    }
+  ]
+  
